@@ -19,7 +19,7 @@ SQLite
 
 Установка и запуск
 1) Клонирование репозитория:
-git clone -b first-iteration https://github.com/Maxagena/final.git
+git clone -b https://github.com/Maxagena/final.git
 cd final
 
 2) Установка зависимостей:
