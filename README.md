@@ -19,7 +19,7 @@ SQLite
 
 Установка и запуск
 1) Клонирование репозитория:
-git clone -b first-iteration https://github.com/Maxagena/final.git
+git clone https://github.com/Maxagena/final.git
 cd final
 
 2) Установка зависимостей:
@@ -41,6 +41,6 @@ http://localhost:7540
  var Search = false // поменять на true
  var Token = `` // значение токена, которое сервер возвратит из /api/signin и которое хранится в куке token
 
-Запустить тесты
+Запустить все тесты
 
 go test -v ./tests
